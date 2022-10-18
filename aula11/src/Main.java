@@ -1,21 +1,23 @@
-import javax.swing.*;
-
 public class Main {
     public static void main(String[] args) {
 
+        Conta c1 = new Conta(1000, 2000);
 
-        //JOptionPane.showConfirmDialog(null, "ok");
-
-        //String resp = JOptionPane.showInputDialog("Oi");
+        c1.depositar(500);
 
         try {
-            throw new SaqueInvalido();
-        } catch (SaqueInvalido e) {
-            System.out.println("saque invalido");
+//            Tenta executar o código dentro do bloco try
+            c1.sacar(120);
+        } catch (Exception e){
+//            Bloco de código caso a parte de cima gere alguma Exception
+            System.err.println(e);
         }
 
+        try {
+            c1.sacar(120000);
+        } catch (Exception e){
+            System.err.println(e);
+        }
 
-     /*   JOptionPane.showMessageDialog(null,"Erro");
-        System.out.println(resp);
-    */}
+    }
 }
