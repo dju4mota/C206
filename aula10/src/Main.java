@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-/*
+
         Cadastro cad = new Cadastro();
 
         Funcionario fun = new Funcionario(140);
@@ -18,7 +18,7 @@ public class Main {
         System.out.println(cad.readIndex(fun2));
 
         cad.readAll();
-*/
+
 
         Carrinho carrinho = new Carrinho();
         Produto prod1 = new Produto("Arroz", 13.0);
