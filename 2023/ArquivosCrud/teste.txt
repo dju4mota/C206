@@ -1,0 +1,7 @@
+POO!
+POO!
+POO!
+POO!
+POO!
+POO!
+Jogo { ID: 1 nome: Zelda preco: 250.0

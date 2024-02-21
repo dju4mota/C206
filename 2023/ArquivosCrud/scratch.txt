@@ -1,0 +1,6 @@
+Jogo { ID: 1 nome: Zelda preco: 250.0 }
+Jogo { ID: 2 nome: Mario preco: 350.0 }
+Jogo { ID: 3 nome: Sonic preco: 150.0 }
+Jogo { ID: 1 nome: Zelda preco: 250.0 }
+Jogo { ID: 2 nome: Mario preco: 350.0 }
+Jogo { ID: 3 nome: Sonic preco: 150.0 }

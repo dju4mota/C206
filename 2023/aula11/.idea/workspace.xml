@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="498012db-f34e-49a2-971a-823ffc4095ac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../2022/Aula3/Aula3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/Aula4/Aula4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/Aula6/Aula6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/Aula7/Aula7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/Prova1/Prova1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/Prova2/Prova2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/aula10/aula10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/aula11/aula11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/aula12/aula12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/aula13/aula13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/aula8/aula8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/prova3/prova3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2022/prova3/simulacao/simulacao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../C206-lab/teste/teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicios/Exercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parte2/Parte2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Parte3/Parte3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoSchedulling/ProjetoSchedulling.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoSchedulling/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoSchedulling/src/Processo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoSchedulling/src/Sheduller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetoTeste/ProjetoTeste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Thread/Thread.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/Aula3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/Motor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula3/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/Aula4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Carrinho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Contato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Empresa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Fornecedor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/out/production/Aula4/Restaurante.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Carrinho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Contato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Fornecedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula4/src/Restaurante.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/Aula6.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/out/production/Aula6/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/out/production/Aula6/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/out/production/Aula6/Personagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/out/production/Aula6/Poder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/src/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula6/src/Poder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/Aula7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/Camiseta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/Notebook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/exemplo/Arquiteto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/exemplo/Engenheiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/exemplo/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/exemplo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/out/production/Aula7/exemplo/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exemplo/Arquiteto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exemplo/Engenheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exemplo/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exemplo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exemplo/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exercicio/Camiseta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exercicio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exercicio/Notebook.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula7/src/exercicio/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/Prova1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/out/production/Prova1/Arma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/out/production/Prova1/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/out/production/Prova1/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/out/production/Prova1/Personagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/src/Item.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova1/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/Prova2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Arma.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Assassino.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Guerreiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/LutarComArmas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Mago.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/out/production/Prova2/Personagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Arma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Assassino.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Guerreiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/LutarComArmas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Mago.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Prova2/src/Personagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/aula10.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/out/production/aula10/Cadastro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/out/production/aula10/Carrinho.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/out/production/aula10/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/out/production/aula10/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/out/production/aula10/Produto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/src/Cadastro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/src/Carrinho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/src/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula10/src/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula11/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/aula11/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/aula11/SaqueInvalido.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Conta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SaqueInvalido.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/aula12.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/out/production/aula12/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/out/production/aula12/scratch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/scratch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula12/src/scratch.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula13/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula13/src/ThreadFatorial.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula13/src/ThreadMusica.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula13/src/ThreadTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/aula8.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Arquiteto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Engenheiro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Funcionario.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Gerencia.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/Bicicleta.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/Manobras.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/Moto.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/out/production/aula8/exercicio/VeiculoMotorizado.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Arquiteto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Engenheiro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Gerencia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exemplo/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/Bicicleta.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/Manobras.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aula8/src/exercicio/VeiculoMotorizado.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2WtpX0lxQSc7UQccPbn4GmO1mvp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Code/Aulas/C206/2022/aula10"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="aula11" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="498012db-f34e-49a2-971a-823ffc4095ac" name="Changes" comment="" />
+      <created>1697561769061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697561769061</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
