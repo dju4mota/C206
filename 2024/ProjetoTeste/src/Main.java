@@ -1,19 +1,32 @@
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.println("Hello and welcome!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+  //      System.out.println(fatorial(5));
+//        mostraPares(23);
+        Lista lista = new Lista();
+        lista.teste();
 
-        for (int j = 10; j > 1; j--){
-            System.out.println(j);
+
+    }
+
+    public static int fatorial(int n){
+        if(n == 1){
+            return 1;
+        } else {
+            return n * fatorial(n-1);
         }
+    }
+
+    public static void mostraPares(int n){
+        for(int i = 0; i <= n; i +=2 ){
+            System.out.println(i);
+        }
+    }
+
+    public static float calculaMedia(float valorTotal, int totalDeItens){
+        return valorTotal/totalDeItens;
     }
 }
