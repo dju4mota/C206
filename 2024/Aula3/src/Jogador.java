@@ -4,19 +4,6 @@ public class Jogador {
     private int vida;
     private int energia;
 
-    public Jogador(){
-    }
-
-    public Jogador( int vida, int energia, Arma arma) {
-        this.arma = arma;
-        this.vida = vida;
-        this.energia = energia;
-    }
-    public Jogador(int vida, int energia) {
-        this.vida = vida;
-        this.energia = energia;
-    }
-
     public Arma getArma() {
         return arma;
     }
@@ -40,6 +27,21 @@ public class Jogador {
     public void setArma(Arma arma) {
         this.arma = arma;
     }
+
+
+    public Jogador(){
+    }
+    public Jogador( int vida, int energia, Arma arma) {
+        this.arma = arma;
+        this.vida = vida;
+        this.energia = energia;
+    }
+
+    public Jogador(int vida, int energia) {
+        this.vida = vida;
+        this.energia = energia;
+    }
+
 
     public void atacar(Jogador alvo){
 

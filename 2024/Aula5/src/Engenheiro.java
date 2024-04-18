@@ -7,9 +7,16 @@ public class Engenheiro extends Profissao {
         this.area = area;
     }
 
+    // this
+    // super
+
     @Override
     public float calcularSalario(float salario) {
-        return super.calcularSalario(salario) * 1.5f;
+        return salario* 1.5f;
+    }
+
+    public void programar(){
+        System.out.println("Programando ...");
     }
 
     @Override
