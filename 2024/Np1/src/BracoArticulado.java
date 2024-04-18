@@ -4,7 +4,6 @@ public class BracoArticulado extends Robo{
     private Camera camera;
 
 
-    @Override
     public void trabalhar() {
         if(camera != null){
             garra.agarrarPeca(camera.acharPecas());

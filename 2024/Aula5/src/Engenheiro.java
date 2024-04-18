@@ -1,4 +1,4 @@
-public class Engenheiro extends Profissao {
+public class Engenheiro extends Profissao implements GerenciaProjeto{
 
     public String area;
 
@@ -22,5 +22,20 @@ public class Engenheiro extends Profissao {
     @Override
     public String toString() {
         return super.toString() + " area" + area;
+    }
+
+    @Override
+    public void trabalhar(int horas) {
+        programar();
+    }
+
+    @Override
+    public void gerenciar() {
+
+    }
+
+    @Override
+    public void consultarCronograma() {
+
     }
 }

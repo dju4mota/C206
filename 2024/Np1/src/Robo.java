@@ -8,6 +8,7 @@ public class Robo {
     public void trabalhar(){
         System.out.println("Trabalhando");
         energia--;
+
     }
     public void trocarEnergia(Robo roboAlvo){
         int energiaTrocada = 4;
