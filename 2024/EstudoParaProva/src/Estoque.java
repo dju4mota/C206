@@ -1,7 +1,9 @@
 import java.util.ArrayList;
+import java.util.HashMap;
 
 public class Estoque {
     private ArrayList<Item> itensArray = new ArrayList<>();
+    private HashMap<String,Item> itensMap = new HashMap<>();
 
     public void adcionarArray(Item item){
         itensArray.add(item);
@@ -25,6 +27,9 @@ public class Estoque {
     public ArrayList<Item> getItensArray() {
         return itensArray;
     }
+    public HashMap<String,Item> getItensMap() {
+        return itensMap;
+    }
 
     public void mostrarItens(){
         System.out.print("[");
@@ -38,4 +43,15 @@ public class Estoque {
         System.out.println("]");
     }
 
+    public void mostrarItensMap(){
+        System.out.print("[");
+        itensMap.forEach(
+            (k, v) -> {
+                if (k != null){
+                    System.out.print("  Chave : \"" + k + "\" Valor : {" + "  " + v.getNome() + " - " + v.getValor() + " }, ");
+                }
+            }
+        );
+        System.out.println("]");
+    }
 }

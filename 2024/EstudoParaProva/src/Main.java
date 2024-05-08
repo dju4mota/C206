@@ -53,6 +53,12 @@ public class Main {
         System.out.print("Size -> ");
         System.out.println(estoque.getItensArray().size());
 
+        estoque.getItensMap().put("pc", new Item(10,"pc"));
+        estoque.getItensMap().put("note", new Item(20,"note"));
+        estoque.getItensMap().put("mouse", new Item(15,"mouse"));
+        estoque.getItensMap().put(item1.getNome(), item1);
+        estoque.mostrarItensMap();
+
 
     }
 }
